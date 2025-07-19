@@ -1,0 +1,21 @@
+﻿Transaction_ID,Date,Month,Customer_ID,Product,Category,Quantity,Price (Unknown Currency),Total_Amount (Unknown Currency),Payment_Method,Region,Advertising_Spend (Unknown Currency)
+1001,1/5/2024,January,C001,Laptop,Electronics,1,800,,Credit Card,North,250
+1002,1/10/2024,January,C002,Smartphone,Electronics,2,600,1200,Cash,South,300
+1003,1/12/2024,January,C003,Headphones,Electronics,1,100,100,PayPal,West,50
+1004,2/5/2024,February,C004,Tablet,Electronics,1,500,500,Debit Card,East,200
+1005,2/8/2024,February,C005,Book,Books,3,20,60,Credit Card,North,20
+1006,2/10/2024,February,C001,Laptop,Electronics,1,800,800,Credit Card,North,250
+1007,3/15/2024,March,C006,Shoes,Clothing,2,50,100,Cash,South,60
+1008,3/18/2024,March,C007,T-Shirt,Clothing,1,25,25,PayPal,West,15
+1009,3/20/2024,March,C008,Smartwatch,Electronics,1,200,200,Debit Card,East,120
+1010,4/1/2024,April,C009,Book,Books,2,20,40,Credit Card,North,10
+1011,4/5/2024,April,C002,Smartphone,Electronics,2,600,1200,Cash,South,300
+1012,4/10/2024,April,C010,Tablet,Electronics,1,500,500,Debit Card,East,200
+1013,5/1/2024,May,C011,Shoes,Clothing,1,50,50,Cash,South,25
+1014,5/5/2024,May,C012,Headphones,Electronics,1,100,100,PayPal,West,50
+1015,5/8/2024,May,C013,Laptop,Electronics,1,800,800,Credit Card,North,250
+1016,5/10/2024,May,C014,T-Shirt,Clothing,3,25,75,Cash,South,20
+1017,6/1/2024,June,C015,Smartwatch,Electronics,1,200,200,Debit Card,East,120
+1018,6/5/2024,June,C016,Book,Books,4,20,80,Credit Card,North,15
+1019,6/8/2024,June,C017,Smartphone,Electronics,1,600,600,Cash,South,200
+1020,6/10/2024,June,C018,Tablet,Electronics,1,500,500,Debit Card,East,200
