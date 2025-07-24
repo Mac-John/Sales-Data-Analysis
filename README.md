@@ -78,6 +78,6 @@ This project involved cleaning, analyzing, and visualizing **6 months of sales d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/macjohnsindioapaun)  
 📫 Email: sindioapaunmacjohn@gmail.com  
-🌐 Portfolio: [MacJohnSindio-Apaun.github.io](https://mac-john.github.io/)
+🌐 Portfolio: [https://mac-john.github.io/](https://mac-john.github.io/)
 
 ---
